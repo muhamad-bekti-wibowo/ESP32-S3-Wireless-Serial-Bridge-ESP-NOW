@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

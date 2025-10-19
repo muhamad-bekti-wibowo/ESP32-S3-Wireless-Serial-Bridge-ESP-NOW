@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/CMakeFiles/bootloader
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/CMakeFiles/bootloader.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/CMakeFiles/bootloader-complete.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Microkontroler/Example ESP-IDF/USB To USB/USB or ESP-NOW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

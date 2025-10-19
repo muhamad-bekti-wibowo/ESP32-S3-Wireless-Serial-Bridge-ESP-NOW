@@ -1,0 +1,2 @@
+source D:/Microkontroler/Example ESP-IDF/USB To USB/ESP-NOW TO USB/build/bootloader/gdbinit/symbols
+source D:/Microkontroler/Example ESP-IDF/USB To USB/ESP-NOW TO USB/build/bootloader/gdbinit/connect
